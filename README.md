@@ -215,14 +215,5 @@ The notebook provides:
 
 ---
 
-## Notes
-
-This project is suited for:
-
-- Audio ML portfolios  
-- Dolby / Fraunhofer / Meta interviews  
-- Master thesis research  
-- Codec and perceptual quality experimentation  
-
 Open an issue if you want enhancements or extensions.
 
